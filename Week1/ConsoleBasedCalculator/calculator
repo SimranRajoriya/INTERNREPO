@@ -1,0 +1,86 @@
+using System;
+
+namespace CalculatorApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            bool again = true;
+
+            while (again)
+            {
+                Console.WriteLine("\n---- Simple Calculator ----");
+                Console.WriteLine("1. Add");
+                Console.WriteLine("2. Subtract");
+                Console.WriteLine("3. Multiply");
+                Console.WriteLine("4. Divide");
+                Console.WriteLine("5. Exit");
+
+                Console.Write("Enter your choice: ");
+                int choice = Convert.ToInt32(Console.ReadLine());
+
+                if (choice == 5)
+                {
+                    Console.WriteLine("Program ended.");
+                    break;
+                }
+
+                Console.Write("Enter first number: ");
+                double a = Convert.ToDouble(Console.ReadLine());
+
+                Console.Write("Enter second number: ");
+                double b = Convert.ToDouble(Console.ReadLine());
+
+                double result = 0;
+
+                try
+                {
+                    if (choice == 1)
+                    {
+                        result = a + b;
+                        Console.WriteLine("Result = " + result);
+                    }
+                    else if (choice == 2)
+                    {
+                        result = a - b;
+                        Console.WriteLine("Result = " + result);
+                    }
+                    else if (choice == 3)
+                    {
+                        result = a * b;
+                        Console.WriteLine("Result = " + result);
+                    }
+                    else if (choice == 4)
+                    {
+                        if (b == 0)
+                        {
+                            Console.WriteLine("Cannot divide by zero");
+                        }
+                        else
+                        {
+                            result = a / b;
+                            Console.WriteLine("Result = " + result);
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("Wrong choice!");
+                    }
+                }
+                catch
+                {
+                    Console.WriteLine("Something went wrong. Please enter valid input.");
+                }
+
+                Console.WriteLine("\nDo you want to continue? (y/n)");
+                string ans = Console.ReadLine();
+
+                if (ans.ToLower() != "y")
+                {
+                    again = false;
+                }
+            }
+        }
+    }
+}
