@@ -1,0 +1,15 @@
+c:\Users\simran\Downloads\PracticeTask-Week1\StudentManagementConsoleApp\bin\Debug\net10.0\StudentManagementConsoleApp.exe
+c:\Users\simran\Downloads\PracticeTask-Week1\StudentManagementConsoleApp\bin\Debug\net10.0\StudentManagementConsoleApp.deps.json
+c:\Users\simran\Downloads\PracticeTask-Week1\StudentManagementConsoleApp\bin\Debug\net10.0\StudentManagementConsoleApp.runtimeconfig.json
+c:\Users\simran\Downloads\PracticeTask-Week1\StudentManagementConsoleApp\bin\Debug\net10.0\StudentManagementConsoleApp.dll
+c:\Users\simran\Downloads\PracticeTask-Week1\StudentManagementConsoleApp\bin\Debug\net10.0\StudentManagementConsoleApp.pdb
+c:\Users\simran\Downloads\PracticeTask-Week1\StudentManagementConsoleApp\obj\Debug\net10.0\StudentManagementConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\simran\Downloads\PracticeTask-Week1\StudentManagementConsoleApp\obj\Debug\net10.0\StudentManagementConsoleApp.AssemblyInfoInputs.cache
+c:\Users\simran\Downloads\PracticeTask-Week1\StudentManagementConsoleApp\obj\Debug\net10.0\StudentManagementConsoleApp.AssemblyInfo.cs
+c:\Users\simran\Downloads\PracticeTask-Week1\StudentManagementConsoleApp\obj\Debug\net10.0\StudentManagementConsoleApp.csproj.CoreCompileInputs.cache
+c:\Users\simran\Downloads\PracticeTask-Week1\StudentManagementConsoleApp\obj\Debug\net10.0\StudentManagementConsoleApp.dll
+c:\Users\simran\Downloads\PracticeTask-Week1\StudentManagementConsoleApp\obj\Debug\net10.0\refint\StudentManagementConsoleApp.dll
+c:\Users\simran\Downloads\PracticeTask-Week1\StudentManagementConsoleApp\obj\Debug\net10.0\StudentManagementConsoleApp.pdb
+c:\Users\simran\Downloads\PracticeTask-Week1\StudentManagementConsoleApp\obj\Debug\net10.0\StudentManagementConsoleApp.genruntimeconfig.cache
+c:\Users\simran\Downloads\PracticeTask-Week1\StudentManagementConsoleApp\obj\Debug\net10.0\ref\StudentManagementConsoleApp.dll
+c:\Users\simran\Downloads\PracticeTask-Week1\StudentManagementConsoleApp\obj\Debug\net10.0\StudentManagementConsoleApp.sourcelink.json
